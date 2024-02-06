@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+    height: 100vh;
+    background: url('C:\Users\varsh\OneDrive\Desktop\POLL\my-polling-app\src\images\polling.jpg') center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff; /* Text color */
+  }
+  
+  .container h1 {
+    font-size: 2.5rem; /* Adjust the font size as needed */
+    margin-bottom: 1rem;
+    color:black;
+  }
+  
+  .container p {
+    font-size: 2.5rem; /* Adjust the font size as needed */
+    margin-bottom: 2rem;
+    color: aliceblue;
+  }
+  
